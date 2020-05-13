@@ -1,0 +1,54 @@
+body{
+    background-color:cadetblue;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer{
+    color: lightgray;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+div{
+    margin:1px;
+}
+
+button{
+    color: white;
+
+    background-color: cornflowerblue;
+    border: none;
+    padding: 20px;
+    display: inline-block;
+    margin: 4px, 2px;
+    height: 50;
+    width: 250;
+    border-radius: 12px;
+}
+button:hover{
+    zoom: 115%;
+}
+
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+#title{
+    color: white;
+}
+
+
+#img1{
+    border: none;
+    color: white;
+    max-width: 512px;
+    max-height: 512px;
+    border-radius: 12px;
+}
+
+#par{
+    color: white;
+}
